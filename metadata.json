@@ -1,0 +1,6 @@
+{
+  "name": "KOBIS Box Office Dashboard",
+  "description": "일일 박스오피스 조회를 제공하고 상세 영화 정보를 확인할 수 있는 대시보드 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
